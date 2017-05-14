@@ -16,4 +16,8 @@ FOUNDATION_EXPORT const unsigned char DrawingViewVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <DrawingView/PublicHeader.h>
 
+#import "ACEDrawingLabelView.h"
+#import "ACEDrawingTools.h"
+#import "ACEDrawingToolState.h"
+#import "ACEDrawingView.h"
 
